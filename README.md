@@ -1,5 +1,5 @@
-# Presentation: Docker with no dockerfile
+# Presentation: ヒカラボ 2015-10-29
 
-http://algas.github.io/docker-with-no-dockerfile
+http://algas.github.io/conference151029
 
 Written in reveal.js
